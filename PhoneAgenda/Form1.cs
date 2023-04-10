@@ -57,5 +57,10 @@ namespace PhoneAgenda
             || contact.Phone == searchBoxText.Text
             || contact.Phone.StartsWith(searchBoxText.Text)).ToList();
         }
+
+        private void closeApp_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

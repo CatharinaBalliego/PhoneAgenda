@@ -38,6 +38,7 @@
             searchBoxText = new TextBox();
             btnSearch = new Button();
             label3 = new Label();
+            closeApp = new Label();
             ((System.ComponentModel.ISupportInitialize)contactListView).BeginInit();
             SuspendLayout();
             // 
@@ -129,6 +130,16 @@
             label3.Text = "Contact List";
             label3.TextAlign = ContentAlignment.MiddleCenter;
             // 
+            // closeApp
+            // 
+            closeApp.AutoSize = true;
+            closeApp.Location = new Point(582, 9);
+            closeApp.Name = "closeApp";
+            closeApp.Size = new Size(14, 15);
+            closeApp.TabIndex = 11;
+            closeApp.Text = "X";
+            closeApp.Click += closeApp_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -136,6 +147,7 @@
             BackColor = SystemColors.AppWorkspace;
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(608, 422);
+            Controls.Add(closeApp);
             Controls.Add(label3);
             Controls.Add(btnSearch);
             Controls.Add(searchBoxText);
@@ -169,5 +181,6 @@
         private TextBox searchBoxText;
         private Button btnSearch;
         private Label label3;
+        private Label closeApp;
     }
 }
