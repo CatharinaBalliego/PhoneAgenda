@@ -1,0 +1,17 @@
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\bin\Debug\net6.0-windows\PhoneAgenda.exe
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\bin\Debug\net6.0-windows\PhoneAgenda.deps.json
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\bin\Debug\net6.0-windows\PhoneAgenda.runtimeconfig.json
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\bin\Debug\net6.0-windows\PhoneAgenda.dll
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\bin\Debug\net6.0-windows\PhoneAgenda.pdb
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.csproj.AssemblyReference.cache
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.Form1.resources
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.csproj.GenerateResource.cache
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.AssemblyInfoInputs.cache
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.AssemblyInfo.cs
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.csproj.CoreCompileInputs.cache
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.dll
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\refint\PhoneAgenda.dll
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.pdb
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\PhoneAgenda.genruntimeconfig.cache
+C:\_PROJETOS\ESTUDOS\PhoneAgenda\PhoneAgenda\obj\Debug\net6.0-windows\ref\PhoneAgenda.dll
